@@ -1,0 +1,117 @@
+header{
+    background-image: url(../../img/header2.png);
+    background-size: 100%;
+    margin: 0%;
+    height: 200px;
+    overflow: hidden;
+    background-repeat: no-repeat;
+    border-style: ridge;
+    border-width: 10px;
+    border-color: #9f832d;
+    position: static;
+}
+
+.titulo{
+    margin-left: 400px;
+    
+    overflow: hidden;
+    
+}
+
+body{
+    background-image: url(../../img/fondo.png);
+    background-size: 100%;
+    background-repeat:round;
+    overflow:auto;
+}
+
+.saludo{
+    font-family: Sevillana;
+    color: white;
+    background-image: url(../../img/footer.jpg);
+    border-width: 10px;
+    border-style: ridge;
+    border-color: #9f832d;
+}
+
+.cartel{
+    color: aliceblue;
+    text-align-last: center;
+    background-color: black;
+    border-style: ridge;
+    border-width: 10px;
+    border-color: #9f832d;
+    font-family: Sevillana;
+    font-style: normal
+}
+
+
+.article1{
+    font-style: italic;
+    font-family: Edu TAS Beginner-medium;
+    font-size: 20px;
+    background-size: 500px;
+
+}
+
+.historia{
+    
+   
+    font-family: Edu TAS Beginner-medium;
+    color: white;
+    border: ridge;
+    border-width: 10px;
+    border-color: #9f832d;
+    width: 200px;
+    padding: 16px;
+    border-radius: 10px;
+    align-content:center;
+    background-image: url(../../img/footer.jpg);
+    overflow: hidden;
+}
+
+.imagen{
+    border-radius:  2px;
+    border-style: ridge;
+    border-color: #9f832d;
+}
+
+
+footer{
+    
+    background-image: url(../../img/footer.jpg);
+    overflow: auto;
+    margin: auto;
+    padding: auto;
+    border-style: ridge;
+    border-width: 10px;
+    border-color: #9f832d;
+}
+
+.footer{
+
+    color: white;
+}
+
+.boton{
+  background-color: black;
+  color: white;
+  border-style: ridge;
+  border-width: 3px;
+  border-color: #9f832d;
+}
+
+.descargar{
+    background-color: black;
+    color: white;
+    border-style: ridge;
+    border-width: 3px;
+    border-color: #9f832d;
+  }
+
+  .music{
+    color: black;
+    border-color: #9f832d;
+    border-style: ridge;
+    border-width: 3px;
+  }
